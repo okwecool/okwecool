@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently persuing MSc in **Artificial Intelligence** in Nanyang Technological University (NTU Singapore).
+
+🔭 Used to worked as Software Engineer for 3 years in Huawei.
+
+🤔 I’m looking for internship and full-time job in both Singapore and China.
+
+📫 Feel free to reach me at: ryan.zou.ntu@gmail.com
