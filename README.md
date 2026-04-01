@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### My name is Runze Zou (Ryan)
 
-🌱 I’m currently persuing MSc in **Artificial Intelligence** in Nanyang Technological University (NTU Singapore).
+🌱 I’m currently persuing MSc in **Artificial Intelligence** in **Nanyang Technological University** (NTU Singapore).
 
-🔭 Used to worked as Software Engineer for 3 years in Huawei.
+🔭 Used to worked as **Software Engineer** for 3 years in Huawei, China.
 
 🤔 I’m looking for internship and full-time job in both Singapore and China.
 
