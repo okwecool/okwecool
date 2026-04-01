@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My name is Runze Zou (Ryan)
+
 🌱 I’m currently persuing MSc in **Artificial Intelligence** in Nanyang Technological University (NTU Singapore).
 
 🔭 Used to worked as Software Engineer for 3 years in Huawei.
