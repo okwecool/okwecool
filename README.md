@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My name is Runze Zou (Ryan)
+### Hi, I'm Runze (Ryan) Zou 👋
 
-🌱 I’m currently persuing MSc in **Artificial Intelligence** in **Nanyang Technological University** (NTU Singapore).
+🎓 I’m pursuing an **M.Sc. in Artificial Intelligence** at **Nanyang Technological University (NTU Singapore)**.
 
-🔭 Used to worked as **Software Engineer** for 3 years in Huawei, China.
+💼 I previously worked as a Software Engineer at **Huawei** for three years and gained additional experience as an **AI Solutions Architect Intern at Baidu AI Cloud**.
 
-🤔 I’m looking for internship and full-time job in both Singapore and China.
+🤖 My interests include **AI agents, RAG, long-term memory, MaaS, and production AI delivery**.
 
-📫 Feel free to reach me at: ryan.zou.ntu@gmail.com
+🔎 I’m seeking full-time **AI Solutions Architect** opportunities in **Singapore and China**.
+
+📫 Feel free to reach me at [ryan.zou.ntu@gmail.com](mailto:ryan.zou.ntu@gmail.com).
